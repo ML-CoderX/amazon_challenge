@@ -1,0 +1,18 @@
+# Dataset
+student_resource/dataset/
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+**/._*
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
