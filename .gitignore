@@ -1,11 +1,5 @@
 # Dataset
 student_resource/dataset/
-output/candidate_pairs.tsv
-output/matching_results.tsv
-# macOS metadata
-.DS_Store
-**/.DS_Store
-**/._*
 
 # Python
 __pycache__/
@@ -17,3 +11,4 @@ venv/
 
 # Jupyter
 .ipynb_checkpoints/
+/student_resource/output/
