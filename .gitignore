@@ -1,6 +1,7 @@
 # Dataset
 student_resource/dataset/
-
+output/candidate_pairs.tsv
+output/matching_results.tsv
 # macOS metadata
 .DS_Store
 **/.DS_Store
